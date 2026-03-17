@@ -1,0 +1,8 @@
+{
+  "order_id": "ORD-784512",
+  "client_account_id": "CA-99231",
+  "SKUs": ["SKU-12345", "SKU-67890","SKU-65890"],
+  "quantity": [10, 20, 12],
+  "purchase_date": '01-01-2026'
+  }
+  
