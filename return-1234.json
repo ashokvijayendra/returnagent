@@ -1,0 +1,8 @@
+{
+  "order_id": "ORD-784512",
+  "client_account_id": "CA-99231",
+  "SKUs": ["SKU-12345", "SKU-67890"],
+  "quantity": [1, 2],
+  "return_reason": "Damaged items received",
+  "request_date": "2026-03-17"
+}
